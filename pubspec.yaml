@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  file_picker: ^5.0.0 # For selecting MP3 files
+  path_provider: ^2.0.14 # For storing files locally
 
 
   # The following adds the Cupertino Icons font to your application.
